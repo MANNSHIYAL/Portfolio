@@ -9,4 +9,4 @@
 -  Thank You for visiting😀
 
 
-
+- Dark Mode have been removed for the time being and will be added later on.
